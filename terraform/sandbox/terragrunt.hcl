@@ -33,6 +33,7 @@ terraform {
       name = "${local.project}-${local.environment}"
     }
   }
+  
 }
 EOF
 }
